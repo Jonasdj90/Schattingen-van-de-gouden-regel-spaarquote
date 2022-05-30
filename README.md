@@ -1,0 +1,2 @@
+# Schattingen-van-de-gouden-regel-spaarquote
+Dit is een beknopte versie van mijn originele masterproef (Is de spaarquote te hoog of te laag? Schattingen van de "gouden-regel"-spaarquote) die ik in 2016 heb geschreven en vereist enige kennis van de gebruikte economische modellen. Het volledig werk, met een voorafgaande uitgebreide literatuurstudie van de economische modellen, en berekeningen in R zijn verkrijgbaar op aanvraag.
