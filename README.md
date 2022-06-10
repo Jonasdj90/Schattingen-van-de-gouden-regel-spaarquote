@@ -3,3 +3,4 @@ Het eerste bestand is een beknopte versie van mijn originele masterproef (Is de 
 Het volledig werk, met een voorafgaande uitgebreide literatuurstudie van de economische modellen, en berekeningen in R zijn verkrijgbaar op aanvraag.
 
 De tweede versie is een actualisatie van mijn masterproef gebaseerd op de laatste gegevens. De berekeningen in R zijn verkrijgbaar op aanvraag.
+Te doen: schatten van de "gouden-regel"-spaarsquote met een mate van tijdsvoorkeur aan de hand van een sensitivitetisanalyse.
